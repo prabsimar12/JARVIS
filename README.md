@@ -1,4 +1,12 @@
-# JARVIS
+The Full Form if JARVIS is, 'Just A Rather Very Intelligent System' :bowtie:  💫 
+
+Features of JARVIS:
+   - Opens Email ✉️ 📨
+   - Opens Youtube 📺 
+   - Says a Joke 😂 😂 
+   - What's Up; Reply = Nothing Much, Just Chillin 😌 😆 😁 
 
 
-An open-source desktop voice assistant that you can use, change and contribute to.
+
+
+**More Features to be added later on**
